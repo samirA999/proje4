@@ -12,19 +12,19 @@ public class DummyMeetingGenerator {
 
 	public static List<Meeting> DUMMY_MEETING = Arrays.asList(
 			new Meeting(new Room("Salle 1"), "Reunion 1", 03082018, Arrays.asList(
-					new Participant("jp@lizy.fr"),
-					new Participant("sam@lizyfr"),
-					new Participant("paul@plizy.fr")
+					new Participant("maxime@lamzone.com"),
+					new Participant("alex@lamzone.com"),
+					new Participant("paul@lamzone.com"),
 			), "1"),
 			new Meeting(new Room("Salle 2"), "Reunion 2", 03082019, Arrays.asList(
-					new Participant("luc@lizy.fr"),
-					new Participant("noe@lizy.fr"),
-					new Participant("viviane@lizy.fr")
+					new Participant("paul@lamzone.com"),
+					new Participant("viviane@lamzone.com"),
+					new Participant("maxime@lamzone.com"),
 			), "2"),
 			new Meeting(new Room("Salle 3"), "Reunion 3", 03082020, Arrays.asList(
-					new Participant("maxime@lizy.fr"),
-					new Participant("amandine@lizy.fr"),
-					new Participant("paul@lizy.fr")
+					new Participant("amandine@lamzone.com"),
+					new Participant("luc@lamzone.com"),
+					new Participant("paul@lamzone.com")
 			), "3")
 	);
 

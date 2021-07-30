@@ -1,13 +1,11 @@
-package com.guilhempelissier.mareu.service;
+package com.example.p4.service;
 
 import com.guilhempelissier.mareu.model.Meeting;
 
 import java.util.List;
 
 public class DummyMeetingApiService implements MeetingApiService {
-	private List<Meeting> meetings = DummyMeetingGenerator.generateMeetings();
-
-	@Override
+	private List<Meeting> meetings =
 	public List<Meeting> getMeetings() {
 		return meetings;
 	}
