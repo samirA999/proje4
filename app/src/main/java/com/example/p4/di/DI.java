@@ -1,8 +1,5 @@
-package com.guilhempelissier.mareu.di;
+package com.example.p4.di;
 
-import com.guilhempelissier.mareu.service.DummyMeetingApiService;
-import com.guilhempelissier.mareu.service.MeetingApiService;
-import com.guilhempelissier.mareu.repository.MeetingRepository;
 
 public class DI {
 
