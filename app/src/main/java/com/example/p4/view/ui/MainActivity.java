@@ -9,15 +9,15 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.lifecycle.LiveData;
-import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.p4.R;
 import com.example.p4.view.adapter.MeetingListAdapter;
 import com.example.p4.viewmodel.FormattedMeeting;
+import com.example.p4.viewmodel.MeetingListFilter;
 import com.example.p4.viewmodel.MeetingListViewModel;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.guilhempelissier.mareu.R;
 
 import java.util.List;
 
@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements NewMeetingDialog.
         Toolbar toolbar = findViewById(R.id.main_toolbar);
         setSupportActionBar(toolbar);
 
-        newMeetingButton = findViewById(R.id.meeting_list_addMettingBtn);
+        newMeetingButton = findViewById(R.id.meeting_list_addMeetingBtn);
 
         newMeetingButton.setOnClickListener(view -> showNewMeetingDialog());
 
@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity implements NewMeetingDialog.
         meetingListAdapter = new MeetingListAdapter(meetings.getValue());
         recyclerView.setAdapter(meetingListAdapter);
 
-        meetings.observe(this, formattedMeetings -> meetingListAdapter.setData (formattedMeetings));
+        meetings.observe(this, formattedMeetings -> meetingListAdapter.setData(formattedMeetings));
 
         meetingListAdapter.setOnItemDeleteListener(id -> meetingListViewModel.deleteMeetingById(id));
     }
