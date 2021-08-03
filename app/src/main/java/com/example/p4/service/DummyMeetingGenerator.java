@@ -1,4 +1,4 @@
-package com.guilhempelissier.mareu.service;
+package com.example.p4.service;
 
 import com.guilhempelissier.mareu.model.Meeting;
 import com.guilhempelissier.mareu.model.Participant;

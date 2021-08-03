@@ -1,6 +1,6 @@
 package com.example.p4.service;
 
-import com.guilhempelissier.mareu.model.Meeting;
+import com.example.p4.model.Meeting;
 import java.util.List;
 
 public interface MeetingApiService {
