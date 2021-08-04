@@ -1,6 +1,10 @@
 package com.example.p4.di;
 
 
+import com.example.p4.repository.MeetingRepository;
+import com.example.p4.service.DummyMeetingApiService;
+import com.example.p4.service.MeetingApiService;
+
 public class DI {
 
 	private static MeetingApiService service = new DummyMeetingApiService();
