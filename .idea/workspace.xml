@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4c0cf09-e824-4f5b-a85e-2e35d98ca928" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/com/example/p4/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/androidTest/java/com/example/p4/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/com/example/projet4/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/di/DI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/di/DI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/model/Meeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/model/Meeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/model/Participant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/model/Participant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/model/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/model/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/repository/MeetingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/repository/MeetingRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/service/DummyMeetingApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/service/DummyMeetingApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/service/DummyMeetingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/service/DummyMeetingGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/service/MeetingApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/service/MeetingApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/view/adapter/MeetingListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/view/adapter/MeetingListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/view/ui/FilterDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/view/ui/FilterDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/view/ui/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/view/ui/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/view/ui/MeetingListViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/view/ui/NewMeetingDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/view/ui/NewMeetingDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/viewmodel/FormattedMeeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/viewmodel/FormattedMeeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/viewmodel/MeetingListFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/viewmodel/MeetingListFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/p4/viewmodel/MeetingListViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/p4/viewmodel/MeetingListViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet4/FirstFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet4/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projet4/SecondFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/p4/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/projet4/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/md-rule/md-rule.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/md-rule/md-rule.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/80z89zj61x7sxnlokjqynrp1e/80z89zj61x7sxnlokjqynrp1e.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/80z89zj61x7sxnlokjqynrp1e/80z89zj61x7sxnlokjqynrp1e.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/80z89zj61x7sxnlokjqynrp1e/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/80z89zj61x7sxnlokjqynrp1e/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/8f0bda6z8vi28m57xjgciv7h5/8f0bda6z8vi28m57xjgciv7h5.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/8f0bda6z8vi28m57xjgciv7h5/8f0bda6z8vi28m57xjgciv7h5.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/8f0bda6z8vi28m57xjgciv7h5/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/8f0bda6z8vi28m57xjgciv7h5/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/dec4g7jdb789bm5q8d7r0buhv/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/dec4g7jdb789bm5q8d7r0buhv/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/dec4g7jdb789bm5q8d7r0buhv/dec4g7jdb789bm5q8d7r0buhv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/dec4g7jdb789bm5q8d7r0buhv/dec4g7jdb789bm5q8d7r0buhv.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/e7nxkk61f2kzip7mbpa6o0anm/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/e7nxkk61f2kzip7mbpa6o0anm/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/e7nxkk61f2kzip7mbpa6o0anm/e7nxkk61f2kzip7mbpa6o0anm.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/6.7.1/scripts/e7nxkk61f2kzip7mbpa6o0anm/e7nxkk61f2kzip7mbpa6o0anm.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/modules-2/metadata-2.96/module-versions.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/modules-2/metadata-2.96/module-versions.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/caches/transforms-2/files-2.1/b1f5c6da28dd308ecb88551c3b56db4c/android.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/caches/transforms-2/files-2.1/b1f5c6da28dd308ecb88551c3b56db4c/android.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wETj6vcmcvIWfIVsepOeVckDHd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4c0cf09-e824-4f5b-a85e-2e35d98ca928" name="Default Changelist" comment="" />
+      <created>1628022881193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628022881193</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
