@@ -19,32 +19,34 @@ import com.hootsuite.nachos.NachoTextView;
 import com.hootsuite.nachos.terminator.ChipTerminatorHandler;
 import com.hootsuite.nachos.validator.ChipifyingNachoValidator;
 
+
 import java.text.DateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
 public class NewMeetingDialog extends DialogFragment {
-
     private NewMeetingDialogListener listener;
+
     private EditText topicEditText;
     private EditText placeEditText;
     private Button datePickerButton;
     private NachoTextView chipsTextView;
+
     private DateFormat df = DateFormat.getDateTimeInstance();
     private Calendar calendar = Calendar.getInstance();
 
     @Override
     public void onAttach(Context context) {
         super.onAttach(context);
-        listener =(NewMeetingDialogListener) context;
-
+        listener = (NewMeetingDialogListener) context;
     }
+
     @NonNull
     @Override
     public Dialog onCreateDialog(@Nullable Bundle savedInstanceState) {
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
-        final View view = requireActivity().getLayoutInflater().inflate(R.layout.content_main, null) ;
+        final View view = requireActivity().getLayoutInflater().inflate(R.layout.dialog_add_new_meeting, null);
 
         calendar.setTime(new Date());
 
@@ -78,7 +80,7 @@ public class NewMeetingDialog extends DialogFragment {
             DatePickerDialog dateDialog = new DatePickerDialog(requireContext(),
                     (datePicker, year, month, dayOfMonth) -> {
                         calendar.set(year, month, dayOfMonth);
-                        TimePickerDialog timeDialog = new TimePickerDialog(requireContext(),
+                        TimePickerDialog  timeDialog = new TimePickerDialog(requireContext(),
                                 (timePicker, hourOfDay, minute) -> {
                                     calendar.set(Calendar.HOUR_OF_DAY, hourOfDay);
                                     calendar.set(Calendar.MINUTE, minute);
