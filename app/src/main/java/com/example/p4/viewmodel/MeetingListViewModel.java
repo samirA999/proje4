@@ -5,6 +5,12 @@ import androidx.lifecycle.MediatorLiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
+import com.example.p4.di.DI;
+import com.example.p4.model.Meeting;
+import com.example.p4.model.Participant;
+import com.example.p4.model.Room;
+import com.example.p4.repository.MeetingRepository;
+
 import java.text.DateFormat;
 import java.util.ArrayList;
 import java.util.Date;

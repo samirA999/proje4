@@ -1,6 +1,8 @@
 package com.example.p4.viewmodel;
 
 
+import com.example.p4.model.Room;
+
 import java.util.List;
 import java.util.Objects;
 
