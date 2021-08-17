@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">MaReu</string>
-    <string name="add_new_M">Ajouter une nouvelle réunion</string>
-    <string name="new_M_positive">Créer</string>
-    <string name="new_M_negative">Annuler</string>
+    <string name="add_new_meeting">Ajouter une nouvelle réunion</string>
+    <string name="new_meeting_positive">Créer</string>
+    <string name="new_metting_negative">Annuler</string>
     <string name="main_title">Ma réu</string>
     <string name="action_filter_title">Filter</string>
     <string name="filter_title">Filtre</string>
