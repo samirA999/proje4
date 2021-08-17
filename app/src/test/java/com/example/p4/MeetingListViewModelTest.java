@@ -1,4 +1,4 @@
-package com.example.p4.viewmodel;
+package com.example.p4;
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule;
 import androidx.lifecycle.LiveData;
@@ -17,6 +17,9 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 
 import com.example.p4.model.Room;
+import com.example.p4.viewmodel.FormattedMeeting;
+import com.example.p4.viewmodel.MeetingListFilter;
+import com.example.p4.viewmodel.MeetingListViewModel;
 
 @RunWith(JUnit4.class)
 public class MeetingListViewModelTest {

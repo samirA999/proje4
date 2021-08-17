@@ -1,13 +1,18 @@
-package com.guilhempelissier.mareu.service;
+package com.example.p4;
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule;
 import androidx.lifecycle.LiveData;
 
-import com.guilhempelissier.mareu.di.DI;
-import com.guilhempelissier.mareu.model.Meeting;
-import com.guilhempelissier.mareu.model.Participant;
-import com.guilhempelissier.mareu.model.Room;
-import com.guilhempelissier.mareu.repository.MeetingRepository;
+import com.example.p4.di.DI;
+import com.example.p4.model.Meeting;
+import com.example.p4.model.Room;
+import com.example.p4.repository.MeetingRepository;
+import com.example.p4.service.DummyMeetingGenerator;
+import com.example.p4.di.DI;
+import com.example.p4.model.Meeting;
+import com.example.p4.model.Participant;
+import com.example.p4.model.Room;
+import com.example.p4.repository.MeetingRepository;
 
 import org.hamcrest.collection.IsIterableContainingInAnyOrder;
 import org.junit.Before;
